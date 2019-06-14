@@ -1,0 +1,13 @@
+theme: night
+eager-loading : true
+background: assets/background.jpg
+transition : none
+logo : assets/grpc-logo.png
+remote-control: true
+remote-control-prevkey: 38
+remote-control-nextkey: 40
+theme-override : assets/styles.css
+published: false
+code-line-numbers : true
+highlight: night
+footnote : "gRPC and Protocol Buffers for Microservice Development - John Regner"
